@@ -1,0 +1,12 @@
+repo "limiplake_limimake" set 'none' {
+
+  public invite "sneharao85"
+  own; org [LimiPlake];;
+  readme NONE
+  liscense NONE
+  coc NONE
+  clone <true>
+  org:ownr [{AJCoderLimiHTML}\MrAJCoding>]
+}
+
+repo start
